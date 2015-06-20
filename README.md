@@ -7,7 +7,7 @@ Sample EJS application
 
 Clone for git
 ```
-git clone https://github.com/gnovoab/ng-nodeJs.git
+git clone https://github.com/gnovoab/ejs-nodeJs.git
 ```
 
 Install dependencies
