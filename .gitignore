@@ -1,0 +1,11 @@
+node_modules
+.tmp
+.tmp*
+.DS_Store
+.idea/
+*.log*
+*.iml
+*.orig
+public/scripts/vendor
+test/coverage
+test/karmacoverage/report/*

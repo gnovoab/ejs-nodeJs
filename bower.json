@@ -1,0 +1,20 @@
+{
+  "name": "ejs-snodeJs",
+  "version": "0.0.0",
+  "authors": [
+    "gnovoab <gnovoab@gmail.com>"
+  ],
+  "description": "Sample application with EJS and NodeJs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/scripts/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  }
+}
