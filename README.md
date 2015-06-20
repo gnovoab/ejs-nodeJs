@@ -1,6 +1,6 @@
-# ng-nodeJs
+# ejs-nodeJs
 
-Sample MEAN application
+Sample EJS application
 
 
 ## Getting Started
